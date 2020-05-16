@@ -1,3 +1,4 @@
 {
-  "dl": "http://localhost:5000"
+  "dl": "http://localhost:5000/downloads",
+  "api": "https://localhost:5000"
 }
