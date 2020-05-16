@@ -1,9 +1,1 @@
-{
-  "name": "hello-world-x-rust-x-library",
-  "vers": "0.1.2",
-  "deps": [],
-  "cksum": "1defb704abc7249a4693c272319a7d5302446e911e708ec7f2c359ae4132c0a4",
-  "features": {},
-  "yanked": false,
-  "links": null
-}
+{"name": "hello-world-x-rust-x-library", "vers": "0.1.2", "deps": [], "cksum": "1defb704abc7249a4693c272319a7d5302446e911e708ec7f2c359ae4132c0a4", "features": {}, "yanked": false, "links": null}
