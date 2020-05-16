@@ -32,4 +32,9 @@ The registry consists of 3 parts:
     2. A server that will serve the `.crate` files (crates compiled and packed for installation)
     3. (optional) An API that will allow the user to upload packages dynamically.
 
-  
+### The git repo
+The git repo what we'll need will contain both the metadata about our package and where to get it from.
+It should contain a file named `config.json` at it's root.
+This file will contain the url of the server that will serve the `.crate` 
+files and optionally the url to the server that will allow uploads.
+

@@ -1,4 +1,4 @@
 {
-  "dl": "http://localhost:5000/downloads",
-  "api": "http://localhost:5000"
+  "dl": "http://localhost:8088/crates/{crate}-{version}.crate",
+  "api": "http://localhost:8088"
 }
