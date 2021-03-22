@@ -1,2 +1,3 @@
 {"name":"uploadtry","vers":"0.1.2","deps":[],"cksum":"7b1f1f755ac1d09738d0aed9e5f66960aa829faecb802d79bc24d3122d190b07","features":{},"yanked":false}
 {"name":"uploadtry","vers":"0.1.3","deps":[],"cksum":"0d67d5ad8b5d657e5a58b66f685574aa4b491fcf360d934591b5bcd3b5122fa2","features":{},"yanked":false}
+{"name":"uploadtry","vers":"0.1.4","deps":[{"name":"serde","req":"*","features":[],"optional":false,"default_features":true,"kind":"normal","registry":"https://github.com/rust-lang/crates.io-index"}],"cksum":"38ad72f88a3d470cd5d9022442b46a7d65e4b8066408c0c547f4e532ff071a14","features":{},"yanked":false}
